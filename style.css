@@ -1,3 +1,39 @@
+.main-title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: black;
+}
+
+.subtile {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.timeline-title {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+
+}
+
+.timeline {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.quote {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.quote-author {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+b {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
 
 
 
